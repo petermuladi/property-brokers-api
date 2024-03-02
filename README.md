@@ -1,6 +1,6 @@
 ## 🖥Property Brokers Rest Api with Laravel
 
-#### Property Brokers API, which provides endpoints for managing properties and brokers (only backend) .
+#### Property Brokers API, which provides endpoints for managing properties and brokers (only backend).
 
 ## Technologies
 
